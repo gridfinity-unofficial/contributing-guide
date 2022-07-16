@@ -1,4 +1,4 @@
-# Welcome to the Unofficial Gridifinity Index Project
+# Welcome to the Unofficial Gridfinity Index Project
 
 To get started you should read CONTRIBUTING.md
 
